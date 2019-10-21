@@ -1,4 +1,5 @@
 # roots.py
+# HW 4, PROB 5
 
 def quad_roots(a=1.0, b=2.0, c=0.0):
     """Returns the roots of a quadratic equation: ax^2 + bx + c.
